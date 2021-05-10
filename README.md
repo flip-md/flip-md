@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flip-md
+- 👀 I’m interested in writing plugins for [Obsidian](https://obsidian.md)
+- 📫 How to reach me: flip on the Obsidian Discord
